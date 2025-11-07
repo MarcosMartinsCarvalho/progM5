@@ -1,19 +1,24 @@
-opdracht 1
-ball prefab met ball spawner
 
-![op1](https://github.com/user-attachments/assets/a04f6d64-9a24-4d00-b7ee-e7e3a4197e05)
-
-opdracht2
-pickup item + score + en movement
-
-![Uploading ScreenRecording2025-10-29140717-ezgif.com-video-to-gif-converter.gif…]()
-
-opdracht 3
-debugging:
+Opdracht 1:
+https://github.com/user-attachments/assets/fc570e56-5afc-47a7-8f29-d49c7fa108b1
 
 
-opdracht4
-schip met bewegend laser zonder bugs
+Opdracht 2:
+https://github.com/user-attachments/assets/471ceeaa-5aa6-43fe-9f2d-7d84fa44ee16
 
-![op4](https://github.com/user-attachments/assets/4e595f3f-26eb-46fe-898a-068ee0c8e5fd)
+
+Opdracht 3
+https://github.com/user-attachments/assets/571edef1-1467-483d-81e5-003530153ec3
+
+
+Opdracht 4
+https://github.com/user-attachments/assets/82e03cbd-e30a-49be-bb23-6e224410fb00
+
+
+Opdracht 6
+https://github.com/user-attachments/assets/3533ea70-7932-4032-a591-51de4cf0907b
+
+
+Opdracht 7
+https://github.com/user-attachments/assets/80aae191-8aa4-4048-b319-8afd82a75260
 
