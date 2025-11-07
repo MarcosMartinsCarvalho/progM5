@@ -22,3 +22,6 @@ https://github.com/user-attachments/assets/3533ea70-7932-4032-a591-51de4cf0907b
 Opdracht 7
 https://github.com/user-attachments/assets/80aae191-8aa4-4048-b319-8afd82a75260
 
+opdracht 8
+https://github.com/user-attachments/assets/a9348947-4e74-4d90-a8e3-84fe87702df1
+
